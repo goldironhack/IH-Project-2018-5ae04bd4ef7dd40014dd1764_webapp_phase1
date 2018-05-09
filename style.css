@@ -1,9 +1,8 @@
-body {
-    color: #444;
-    font-family: Arial, sans-serif;
-}
 
-.container {
-    width: 100%;
-    max-width: 960px;
-}
+		.price{float: left;}
+		.distance{float: left;}
+		.safety{float: left;}
+		.leftCon{float: left;width: 49%;border: 0px solid #000}
+		.mapBox{float: left;height: 447px;width: 49%;border: 0px solid #000}
+		.choice{display: inline;position: relative;}
+		.search{display: inline;position: relative;right: -50px;}
